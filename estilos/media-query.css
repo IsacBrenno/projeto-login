@@ -17,7 +17,8 @@
     }
 
     section#login > div#formulario {
-        
+        float: right;
+        width: 70%;
     }
 
     div#formulario > p{
@@ -43,7 +44,9 @@
     }
 
     section#login > div#formulario {
-    
+        float: left;
+
+        width: 50%;
  
     }
     
